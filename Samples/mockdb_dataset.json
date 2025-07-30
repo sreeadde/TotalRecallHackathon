@@ -1,0 +1,539 @@
+
+
+[
+    {
+    "UserID": 1,
+    "Sessions":[
+        {
+            "SessionID": 1,
+            "Conversation":
+            [
+                {
+                    "role": "Assistant",
+                    "turn_number": 0,
+                    "message": "Hello there, I'm here to assist you in your culinary adventures!"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 1,
+                    "message": "Hello there! I was wondering if you might have any suggestions for what I could cook for my next dinner?"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 2,
+                    "message": "No problem at all. To help give you the best suggestions I can, could you tell me, do you have any dietary requirements or food allergies I should know about?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 3,
+                    "message": "I don't have any food allergies that I'm aware of and neither o I have any particular dietary requirements."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 4,
+                    "message": "Okay, that's good to know. Could you tell me, what is your skill level like in the kitchen? Are you a confident cook? Or are you someone who prefers to keep their cooking basic?\nAlso how much time would you generally have when preparing and cooking a meal such as dinner?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 5,
+                    "message": "To be honest, I'm not the greatest cook in the world. I tend to follow simple recipes but I am prepared to try new things an take on a challenge! As for time, I'd have a maximum of one hour for the preparation and cooking of dinner usually."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 6,
+                    "message": "Right then, it sounds to me like you have good basic cookery skills and would be prepared to spend around one hour making this dinner. Does that sound about right?\nTo help you further could you tell me some of the dishes you currently make and like preparing?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 7,
+                    "message": "Yes, those details would be correct."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 8,
+                    "message": "Okay, brilliant. As i just asked I wonder if you could tell me what kinds of dishes you currently cook and what types of meals for dinners you enjoy preparing?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 9,
+                    "message": "Yes of course, apologies for not answering this question first time by the way. I hit the return button wanting to start a new line not realising it would send my message. I currently cook an enjoy making dishes such as tuna pasta bake, chicken enchiladas and spaghetti bolagnese."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 10,
+                    "message": "Those are some interesting and tasty dishes you currently cook there! Based on what you've told me I think you'd really like making Chilli con Carne. I think this would be suitable as you are clearly a meat eater based on the other dishes you prepare. Also if you like spaghetti bolognese I'm confident you'd enjoy Chilli con Carne as it's main ingredient is beef. Please follow the link below and tell me what you think. I'd be interested to know your thoughts on my suggestion. \n  https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 11,
+                    "message": "That's a really interesting suggestion. Thank you. I have tried this meal before in the past and enjoyed it. Would you have any other suggestions to give me more options?"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 12,
+                    "message": "Yes of course, I' be happy to make further suggestions! Based on the skill levels in the kitchen you'd reported and the time you usually have to cook, I also think you really enjoy making burritos. They are very similar to enchiladas which I know you like, tend to use chicken as the main meat and are quite straightforward to prepare. Again, take a look at this recipe and let me know what you think. https://www.recipetineats.com/chicken-burrito/"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 13,
+                    "message": "Ahh thank you very much. This looks great. I've not made this meal before but am sure I'd enjoy it. I'm keen to give this a try!"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 14,
+                    "message": "Well I'm very glad you like the sound of it! Thank you for being so open to my suggestions and hope you enjoy the burritos! Feel free to ask me again in the future for other suggestions."
+                },
+                {
+                    "role": "User",
+                    "turn_number": 15,
+                    "message": "I'm sure I will! Thanks again for all your help!"
+                }
+            ],
+
+            "Preferences": {
+                "allergies": [
+                    "No allergies"
+                ],
+                "diet_requirements": [
+                    "No particular dietary requirements"
+                ],
+                "skill_level": [
+                    "Not the greatest cook",
+                    "Prepared to try new things and take on a challenge"
+                ],
+                "time_availability": [
+                    "Maximum of one hour for preparation and cooking of dinner"
+                ],
+                "dish_like": [
+                    "Tuna pasta bake",
+                    "Chicken enchiladas",
+                    "Spaghetti bolognese"
+                ]
+            }
+        },
+        {
+            "SessionID": 2,
+            "Conversation":
+            [
+                {
+                    "role": "User",
+                    "turn_number": 0,
+                    "message": "Hello there! I wonder if you could make some suggestions as to what I might cook for breakfast?"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 1,
+                    "message": "Certainly, I'd be delighted to help you. Could you tell me what type of food you like to eat for breakfast and how much time you'd generally have to cook?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 2,
+                    "message": "Well as you know I'm a meat eater so I think I'd like something that included bacon and sausages."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 3,
+                    "message": "Okay that's something I could definitely makes suggestions for. How much time would you realistically have for making this breakfast meal?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 4,
+                    "message": "I would have about an hour if it was a weekend. That's when I'd tend to cook a breakfast."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 5,
+                    "message": "Okay, based on what you've told me I'd recommend you try cooking a full English Breakfast. This meal contains both bacon and sausages and can be prepared in the hour that you have set aside for preparing the meal. Below I've included a link to a recipe. Let me know what you think?  https://www.bbc.co.uk/food/recipes/stressfreefullenglis_67721"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 6,
+                    "message": "Thank you very much. This is exactly what I want! It has both sausage and bacon as well as a number of other foods I like such as eggs and tomatoes. This is perfect!"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 7,
+                    "message": "I'm really please you like the suggestion!  Thank you for being so open to my thoughts. Would you like any other suggestions or have any other questions you'd like to ask?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 8,
+                    "message": "No thank you. You've given me a great suggestion as it is! Many thanks!"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 9,
+                    "message": "Well that's great to hear. Enjoy your full English Breakfast!"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 10,
+                    "message": "Thank you. I'm very sure I will!"
+                }
+            ],
+            "Preferences": {
+                "time_availability": [
+                    "about an hour"
+                ],
+                "ingredient_like": [
+                    "bacon",
+                    "sausages"
+                ]
+            }
+        }
+    ]
+  },
+
+  {
+    "UserID": 2,
+    "Sessions":[
+        {
+            "SessionID": 1,
+            "Conversation":
+            [
+                {
+                    "role": "Assistant",
+                    "turn_number": 0,
+                    "message": "Hello there, I'm here to assist you in your culinary adventures!"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 1,
+                    "message": "What should I cook for dinner?"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 2,
+                    "message": "Hi there! Thank you for your request for a dinner recipe, before I can make any suggestions, please tell me if you have any food allergies or dietary requirements."
+                },
+                {
+                    "role": "User",
+                    "turn_number": 3,
+                    "message": "I do not have any food allergies or dietary requirements to worry about."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 4,
+                    "message": "Thank you for letting me know. What is your skill level in cooking, and how much time do you have for cooking dinner?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 5,
+                    "message": "I am a beginner level cook, and I have 45 minutes to prepare dinner."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 6,
+                    "message": "Thanks for letting me know you are a beginner cook with 45 minutes to cook dinner. Next I'd like to know if you have any food preferences or cooking habits that you would like me to consider?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 7,
+                    "message": "I was thinking of spaghetti for dinner, and I like to try and keep it simple."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 8,
+                    "message": "You can cook the spaghetti noodles and toss them with a flavorful tomato sauce. Let me know if you want to try this recipe or not.\n\nhttps://www.averiecooks.com/easy-15-minute-spaghetti/\n\nI recommend trying a simple spaghetti recipe such as the one in the link I've provided above. It's a classic dish  which is easy to prepare for a beginner such as yourself, and will only take 15 minutes. The link I've provided will help you to cook the noodles and make a nice pasta sauce. Please let me know if you want to try this recipe or not."
+                },
+                {
+                    "role": "User",
+                    "turn_number": 9,
+                    "message": "I have reviewed your recommendation , and I think it is exactly what I wanted.  It is simple to make, and won't take too long. So this is perfect, thanks!"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 10,
+                    "message": "I'm so pleased you liked my recommendation! Before we continue, are there any specific ingredients you wish to include or avoid in the recipe?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 11,
+                    "message": "No, nothing like that."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 12,
+                    "message": "Thank you very much for requesting my help with choosing your dinner, I hope everything goes well making spaghetti. If there's nothing else, this conversation will end."
+                },
+                {
+                    "role": "User",
+                    "turn_number": 13,
+                    "message": "ok goodbye."
+                }
+            ],
+            "Preferences": {
+                "allergies": [
+                    "No allergies"
+                ],
+                "diet_requirements": [
+                    "None"
+                ],
+                "skill_level": [
+                    "beginner"
+                ],
+                "time_availability": [
+                    "45 minutes"
+                ],
+                "dish_like": [
+                    "spaghetti"
+                ],
+                "cuisine_like": [
+                    "Italian"
+                ]
+            }
+        }
+    ]
+  },
+
+  {
+    "UserID": 3,
+    "Sessions":[
+        {
+            "SessionID": 1,
+            "Conversation":
+            [
+                {
+                    "role": "Assistant",
+                    "turn_number": 0,
+                    "message": "Hello there, I'm here to assist you in your culinary adventures!"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 1,
+                    "message": "I want to know what to cook for dinner."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 2,
+                    "message": "Do you have any allergies or dietary requirements?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 3,
+                    "message": "Yes I am vegan."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 4,
+                    "message": "Are there any foods you wish to exclude from the suggestions? How are your culinary skills?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 5,
+                    "message": "My culinary skills are top."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 6,
+                    "message": "Great!  How much time do you have available for cooking?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 7,
+                    "message": "30 minutes"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 8,
+                    "message": "Great!  Are there any foods you would like to exclude from the suggestions?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 9,
+                    "message": "Yes aubergines."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 10,
+                    "message": "As you are vegan and you have 30 minutes available this is a suitable recipe.  It does not contain aubergines.  It is very tasty. \n https://healthylivingjames.co.uk/15-minute-veg-curry/"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 11,
+                    "message": "Great!"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 12,
+                    "message": "Thanks!  What are your favourite ingredients and flavours?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 13,
+                    "message": "I like chilli."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 14,
+                    "message": "Thank you for using the service and enjoy your meal!"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 15,
+                    "message": "Thanks."
+                }
+            ],
+            "Preferences": {
+                "diet_requirements": [
+                    "vegan"
+                ],
+                "skill_level": [
+                    "top"
+                ],
+                "time_availability": [
+                    "30 minutes"
+                ],
+                "ingredient_dislike": [
+                    "aubergines"
+                ]
+            }
+        },
+        {
+            "SessionID": 2,
+            "Conversation":
+            [
+                {
+                    "role": "User",
+                    "turn_number": 0,
+                    "message": "Hello assistant, can you tell me what to have for breakfast?"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 1,
+                    "message": "How much time do you have for cooking?  What do you usually have?  Do you have any dietary requirements?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 2,
+                    "message": "It needs to be quick and I do not like eggs."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 3,
+                    "message": "What do you usually have for breakfast?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 4,
+                    "message": "Cereal."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 5,
+                    "message": "These recipes are quick to prepare in the morning as you prepare them the night before.  https://theconscientiouseater.com/5-amazing-make-ahead-overnight-oat-recipes/"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 6,
+                    "message": "Great!"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 7,
+                    "message": "Thanks!  Are there any foods you would like to exclude."
+                },
+                {
+                    "role": "User",
+                    "turn_number": 8,
+                    "message": "bananas"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 9,
+                    "message": "There are no bananas in the recipes.  Thank you for using the service and enjoy your meal!"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 10,
+                    "message": "Thanks."
+                }
+            ],
+            "Preferences": {
+                "time_availability": [
+                    "quick"
+                ],
+                "ingredient_dislike": [
+                    "eggs",
+                    "bananas"
+                ],
+                "dish_like": [
+                    "Cereal"
+                ]
+            }
+        },
+        {
+            "SessionID": 3,
+            "Conversation":
+            [
+                {
+                    "role": "User",
+                    "turn_number": 0,
+                    "message": "Hello I would like to have lunch recipes."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 1,
+                    "message": "How long do you have to cook lunch?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 2,
+                    "message": "10 minutes"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 3,
+                    "message": "How long do you have to cook lunch?"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 4,
+                    "message": "10 minutes"
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 5,
+                    "message": "This is a quick vegan recipe which does not include eggs bananas or aubergines. It takes 5 minutes.  https://www.bbcgoodfood.com/recipes/egg-less-mayo-sandwiches"
+                },
+                {
+                    "role": "User",
+                    "turn_number": 6,
+                    "message": "Great."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 7,
+                    "message": "May I ask what you like about the recipe."
+                },
+                {
+                    "role": "User",
+                    "turn_number": 8,
+                    "message": "It's quick and vegan."
+                },
+                {
+                    "role": "Assistant",
+                    "turn_number": 9,
+                    "message": "Thanks!  Enjoy your meal."
+                },
+                {
+                    "role": "User",
+                    "turn_number": 10,
+                    "message": "Thank you."
+                }
+            ],
+            "Preferences": {
+                "time_availability": [
+                    "10 minutes"
+                ],
+                "diet_requirements": [
+                    "vegan"
+                ],
+                "cuisine_like": [
+                    "quick"
+                ]
+            }
+        }
+    ]
+  }
+]
