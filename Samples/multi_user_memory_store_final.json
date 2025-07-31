@@ -1,0 +1,130 @@
+{
+    "user_345": [
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i like pink roses"
+                }
+            ],
+            "semantic_preferences": {
+                "preferred_flowers": "pink roses"
+            },
+            "episodic_preferences": {}
+        },
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i like to go on hiking in december"
+                }
+            ],
+            "semantic_preferences": {
+                "preferred_hiking_month": "December"
+            },
+            "episodic_preferences": {}
+        },
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i like watching netflix on thursday"
+                }
+            ],
+            "semantic_preferences": {
+                "preferred_netflix_day": "Thursday"
+            },
+            "episodic_preferences": {}
+        },
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "I plan to travel during christmas "
+                }
+            ],
+            "semantic_preferences": {},
+            "episodic_preferences": {
+                "travel_during_christmas": "User plans to travel during Christmas"
+            }
+        }
+    ],
+    "user_223": [
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i am a vegan and looking for dairy free dinner options."
+                }
+            ],
+            "semantic_preferences": {
+                "dietary_preference": "vegan (dairy-free)"
+            },
+            "episodic_preferences": {}
+        }
+    ],
+    "user_290": [
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i like blue clips"
+                }
+            ],
+            "semantic_preferences": {
+                "likes_blue_clips": "true"
+            },
+            "episodic_preferences": {}
+        },
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "I follow vegan diet. Can you suggest some dinner options?"
+                }
+            ],
+            "semantic_preferences": {
+                "follows_vegan_diet": "true"
+            },
+            "episodic_preferences": {}
+        }
+    ],
+    "user_2000": [
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "I like to use webex product in the cisco live demo"
+                }
+            ],
+            "semantic_preferences": {},
+            "episodic_preferences": {
+                "cisco_live_demo": "User likes to use the Webex product in the Cisco live demo."
+            }
+        },
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "We plan to integrate hologram in webex"
+                }
+            ],
+            "semantic_preferences": {
+                "integrate_hologram_with_webex": "User plans to integrate a hologram in Webex."
+            },
+            "episodic_preferences": {}
+        },
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i bought cisco eternet switch for my coworkers"
+                }
+            ],
+            "semantic_preferences": {},
+            "episodic_preferences": {
+                "purchased_cisco_switch_for_coworkers": "User purchased a Cisco Ethernet switch for their coworkers."
+            }
+        }
+    ]
+}
