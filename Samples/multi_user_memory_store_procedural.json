@@ -1,0 +1,43 @@
+{
+    "user_111": [
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i like blue mangoes"
+                }
+            ],
+            "semantic_preferences": {
+                "blue_mangoes": "User likes them"
+            },
+            "episodic_preferences": {},
+            "procedural_preferences": {}
+        },
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i want to go hiking on saturday"
+                }
+            ],
+            "semantic_preferences": {},
+            "episodic_preferences": {
+                "wants_to_go_hiking_on_saturday": "User wants to go hiking on Saturday"
+            },
+            "procedural_preferences": {}
+        },
+        {
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "Make hot oil with this routine: First put some oil, second mix seeds and lasty put some ginger"
+                }
+            ],
+            "semantic_preferences": {},
+            "episodic_preferences": {},
+            "procedural_preferences": {
+                "hot_oil_preparation": "First put some oil, then mix seeds, and lastly put some ginger."
+            }
+        }
+    ]
+}
