@@ -1,0 +1,74 @@
+{
+    "user_123": [
+        {
+            "session_id": "20250731-000115",
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i like blue oranges"
+                },
+                {
+                    "speaker": "Agent",
+                    "text_content": "Thanks, I've noted that down."
+                }
+            ],
+            "semantic_preferences": {
+                "blue_oranges": "User likes blue oranges"
+            },
+            "episodic_preferences": {},
+            "procedural_preferences": {}
+        },
+        {
+            "session_id": "20250731-000115",
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "I like vegetarian food, can you suggest some dinner options?"
+                },
+                {
+                    "speaker": "Agent",
+                    "text_content": "Absolutely! Since you enjoy vegetarian food, here are a few dinner ideas you might like:\n\u2022 A hearty lentil or bean chili served with cornbread.  \n\u2022 A veggie stir-fry with tofu or tempeh and your favorite mixed vegetables.  \n\u2022 A savory mushroom and spinach pasta.  \n\u2022 A Mediterranean-style grain bowl with roasted vegetables, chickpeas, and a tahini drizzle.  \n\u2022 A creamy vegetable curry with potatoes, carrots, peas, and coconut milk.\n\nFeel free to mix and match flavors you enjoy, and I hope these ideas make for a delicious vegetarian dinner!"
+                }
+            ],
+            "semantic_preferences": {
+                "vegetarian_food": "User likes vegetarian food"
+            },
+            "episodic_preferences": {},
+            "procedural_preferences": {}
+        },
+        {
+            "session_id": "20250731-000115",
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "i like to go hiking"
+                },
+                {
+                    "speaker": "Agent",
+                    "text_content": "Thanks, I've noted that down."
+                }
+            ],
+            "semantic_preferences": {
+                "hiking": "User likes to go hiking"
+            },
+            "episodic_preferences": {},
+            "procedural_preferences": {}
+        },
+        {
+            "session_id": "20250731-000620",
+            "conversation_chunk": [
+                {
+                    "speaker": "User",
+                    "text_content": "Can you share some dinner ideas?"
+                },
+                {
+                    "speaker": "Agent",
+                    "text_content": "Since you mentioned liking vegetarian food, here are a few dinner ideas you might enjoy:\n\n\u2022 A hearty lentil or bean chili served with cornbread.  \n\u2022 A veggie stir-fry with tofu or tempeh and your favorite mixed vegetables.  \n\u2022 A savory mushroom and spinach pasta.  \n\u2022 A Mediterranean-style grain bowl with roasted vegetables, chickpeas, and a tahini drizzle.  \n\u2022 A creamy vegetable curry with potatoes, carrots, peas, and coconut milk.\n\nHope these ideas inspire a delicious vegetarian dinner!"
+                }
+            ],
+            "semantic_preferences": {},
+            "episodic_preferences": {},
+            "procedural_preferences": {}
+        }
+    ]
+}
